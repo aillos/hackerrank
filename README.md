@@ -8,7 +8,7 @@
 | :---- | :----: | :----: | :----: |
 | Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)| [Java](https://github.com/aillos/hackerrank/blob/master/src/WelcomeToJava.java) | May 17, 2023
 | Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaStdinAndStdoutI.java) | May 17, 2023
-| Introduction | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaIfElse.java)) | May 17, 2023
+| Introduction | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaIfElse.java) | May 17, 2023
 | Introduction | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaStdinAndStdoutII.java) | May 17, 2023
 | Introduction | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaOutputFormatting.java) | May 17, 2023
 | Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaLoopsI.java) | May 17, 2023
