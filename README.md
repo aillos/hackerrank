@@ -4,9 +4,6 @@
 > 🔗 [My HackerRank profile](https://www.hackerrank.com/aillos) <br>
 > Listed by subdomain, and most likely date of completion.
 
-Languages: 
-Java
-
 | Subdomains | Challenge | Solution | Date
 | :---- | :----: | :----: | :----: |
 | Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)| [Java](https://github.com/aillos/hackerrank/blob/master/src/WelcomeToJava.java) | May 17, 2023
