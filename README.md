@@ -14,3 +14,8 @@
 | Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaLoopsI.java) | May 17, 2023
 | Introduction | [Java Loops II](https://www.hackerrank.com/challenges/java-loops)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaLoopsII.java) | May 17, 2023
 | Introduction | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaDatatypes.java) | May 17, 2023
+| Introduction | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaEndOfFile.java) | May 18, 2023
+| Introduction | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaStaticInitializerBlock.java) | May 18, 2023
+| Introduction | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaIntToString.java) | May 18, 2023
+| Introduction | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaDateAndTime.java), [Java alt.](https://github.com/aillos/hackerrank/blob/master/src/JavaDateAndTimeII.java) | May 18, 2023
+| Introduction | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaCurrencyFormatter.java) | May 18, 2023
