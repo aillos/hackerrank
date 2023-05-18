@@ -18,4 +18,4 @@
 | Introduction | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaStaticInitializerBlock.java) | May 18, 2023
 | Introduction | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaIntToString.java) | May 18, 2023
 | Introduction | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaDateAndTime.java), [Java alt.](https://github.com/aillos/hackerrank/blob/master/src/JavaDateAndTimeII.java) | May 18, 2023
-| Introduction | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaCurrencyFormatter.java) | May 18, 2023
+| Introduction | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaCurrencyFormater.java) | May 18, 2023
