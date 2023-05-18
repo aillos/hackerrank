@@ -4,7 +4,7 @@
 > 🔗 [My HackerRank profile](https://www.hackerrank.com/aillos) <br>
 > Listed by subdomain, and most likely date of completion.
 
-| Subdomains | Challenge | Solution | Date
+| Subdomains | Challenges | Solution | Date
 | :---- | :----: | :----: | :----: |
 | Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)| [Java](https://github.com/aillos/hackerrank/blob/master/src/WelcomeToJava.java) | May 17, 2023
 | Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)| [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaStdinAndStdoutI.java) | May 17, 2023
