@@ -4,8 +4,8 @@ import java.util.regex.Pattern;
 public class PatternSyntaxChecker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int N = Integer.parseInt(sc.nextLine());
-        for (int i=0;i<N;i++) {
+        int lines = Integer.parseInt(sc.nextLine());
+        for (int i=0;i<lines;i++) {
             String pattern = sc.nextLine();
             try {
                 Pattern.compile(pattern);
