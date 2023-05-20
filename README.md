@@ -23,3 +23,7 @@
 | Strings | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaSubstring.java) | May 19, 2023
 | Strings | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaSubstringComparisons.java) [(Alt.)](https://github.com/aillos/hackerrank/blob/master/src/JavaSubstringComparisonsII.java) | May 19, 2023
 | Strings | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaStringReverse.java) | May 19, 2023
+| Strings | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaAnagrams.java) | May 19, 2023
+| Strings | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaStringTokens.java) | May 19, 2023
+| Strings | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [Java](https://github.com/aillos/hackerrank/blob/master/src/PatternSyntaxChecker.java) | May 19, 2023
+| Strings | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [Java](https://github.com/aillos/hackerrank/blob/master/src/JavaRegex.java) | May 19, 2023
