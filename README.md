@@ -1,7 +1,8 @@
 #  [My HackerRank solutions.](https://www.hackerrank.com/dashboard)
 
-> **Note** <br>
 > 🔗 [My HackerRank profile](https://www.hackerrank.com/aillos) <br>
+
+> **Note** <br>
 > Listed by subdomain, and most likely date of completion.
 
 | Subdomains | Challenges | Solution | Date
